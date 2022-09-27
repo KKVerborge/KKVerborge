@@ -1,4 +1,4 @@
-# 👋🏿 Olá! eu sou a Kenzel Kache Verborge 🏳️‍🌈
+# 👋🏿 Olá! Eu sou a Kenzel Kache Verborge 🏳️‍🌈
 😊 Hoje trabalho com Front-End
 📚 Estudando HTML, CSS, JAVASCRIPT, PYTHON, REACT NATIVE, PHP e TYPESCRIPT 
 📧 Contate- me no email: contato@kkverborge.com
